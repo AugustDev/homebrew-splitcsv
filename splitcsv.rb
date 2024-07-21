@@ -1,4 +1,4 @@
-class CsvSplitter < Formula
+class Splitcsv < Formula
   desc "CLI application that splits a CSV file into multiple files"
   homepage "https://github.com/augustdev/splitcsv"
   version "0.0.1"
